@@ -1,0 +1,316 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some seasonable and serious queries upon the late act against conventicles tending to discover how much it is against the express word of God, the positive law of the nation, the law &amp; light of nature, and principles of prudence &amp; policy, and therefore adjudged by the law of the land to be void and null ... / by a friend to truth and peace.</title>
+            <author>Lockyer, Nicholas, 1611-1685.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88421</idno>
+            <idno type="STC">Wing L2801</idno>
+            <idno type="STC">ESTC R3063</idno>
+            <idno type="EEBO-CITATION">42475104</idno>
+            <idno type="OCLC">ocm 42475104</idno>
+            <idno type="VID">151236</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88421)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151236)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 388:25 or 2251:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some seasonable and serious queries upon the late act against conventicles tending to discover how much it is against the express word of God, the positive law of the nation, the law &amp; light of nature, and principles of prudence &amp; policy, and therefore adjudged by the law of the land to be void and null ... / by a friend to truth and peace.</title>
+                  <author>Lockyer, Nicholas, 1611-1685.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1670]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Nicholas Lockyer. Cf. DNB.</note>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Imperfect: copy at 388:25 cropped, with loss of imprint, part of title, and text; copy at 2251:13 cropped with loss of imprint and slight loss of text.</note>
+                  <note>Item at reel 2251:13 identified as Wing L2799.</note>
+                  <note>Reproductions of originals in: Union Theological Seminary (New York, N.Y.). Library (reel 388:25) and Trinity College (Dublin, Ireland). Library (reel 2251).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conventicle Act, 1670 --  Controversial literature.</term>
+               <term>Freedom of religion --  England.</term>
+               <term>Assembly, Right of --  England --  Early works to 1800.</term>
+               <term>Church and state --  England.</term>
+               <term>Great Britain --  History --  Charles II, 1660-1685.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:151236:1" rendition="simple:additions"/>
+            <p>SOME Seaſonable and Serious QUERIES Upon the late Act againſt Conventicles. Tending to diſcover How much it is againſt the expreſs Word of GOD, the poſitive Law of the Nation, the Law &amp; Light of Nature, and Principles of Prudence &amp; Policy. And therefore adjudged by the Law of the Land to be Void and Null. <hi>Viz.</hi>
+            </p>
+            <q>
+               <bibl>
+                  <hi>Finch p. 3.</hi>
+               </bibl>
+               <p>That no Act of Parliament, or Law repugnant to the Law of God, is of any force.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>28 H. 8.</hi>
+               </bibl>
+               <p>That no man of what eſtate, degrée, or condition whatſoever, hath power to diſpence with Gods Law.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Doct. &amp; Stud.</hi>
+               </bibl>
+               <p>That againſt Scripture Law, Preſcription, Statute, nor Cuſtom may avail; and if any be brought in againſt it, they be void, and againſt Iuſtice.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>42 Ed. 3.</hi>
+               </bibl>
+               <p>It is aſſented and accorded, That the Great Charter be hol<g ref="char:EOLhyphen"/>den and kept in all points, and that if any Statute be made to the contrary, it ſhall be held for none.</p>
+            </q>
+            <p>By a Friend to Truth and Peace.</p>
+            <q>
+               <bibl>
+                  <hi>Mat. 24.48, 49.</hi>
+               </bibl>
+               <p>And if that evil ſervant ſhall ſay in his heart, My Lord delayeth his coming, and ſhall begin to ſmite his fellow-ſervants, and to eat and drink with the drunken, <hi>&amp;c.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Acts 9.5.</hi>
+               </bibl>
+               <p>Saul, Saul, why perſecuteſt thou me? It is hard for thee to kick againſt the pricks.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Pſal. 9.16.</hi>
+               </bibl>
+               <p>The wicked is ſnared in the work of his own hands <hi>&amp;c.</hi>
+               </p>
+            </q>
+            <p>Printed in the year 1670.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:151236:2"/>
+            <pb facs="tcp:151236:2"/>
+            <head>Some Sober Queries upon the ACT againſt <hi>CONVENTICLES.</hi>
+            </head>
+            <p>WHether upon a due and ſerious ſearch, this late Law doth not appear to contradict the three Great Laws, <hi>viz.</hi> The Law of God, the Law of the Nation, and the Law of Nature; and is not contrary to the Rules of Prudence and Policy, and tending to promote ſome private and corrupt intereſt?</p>
+            <div type="part">
+               <head>Firſt, As to the Law of God:</head>
+               <p n="1">1. Whether in the particulars following, relating to Preachers and Hearers, the Law of God is not manifeſtly contradicted and im<g ref="char:EOLhyphen"/>pugned?</p>
+               <p n="1">1. Doth not Gods Law require all men that hear, learn, and keep it, having a Gift from Chriſt, of what Rank, Condition, or Quality ſoever, (high or low) ſhould be Teachers and Publiſhers of it? <hi>Mat.</hi> 5.19. 1 <hi>Pet.</hi> 4.10. 2 <hi>Tim.</hi> 4.2. And accordingly have we not had, of high degree, preaching Kings, Princes, Judges, and <hi>Levites, Pſal.</hi> 40.9. <hi>Eccleſ.</hi> 1.1. &amp; 12.10. 2 <hi>Chron.</hi> 17.7, 8, 9. And of low degree, mechanick Carpen<g ref="char:EOLhyphen"/>ters, Herdſmen, Fiſhermen, Tentmakers, that have preached and pub<g ref="char:EOLhyphen"/>liſhed his Word and Law? <hi>Mark</hi> 6.3. <hi>Amos</hi> 1.1. <hi>Mark</hi> 1.16, 17. <hi>Acts</hi> 18.2.</p>
+               <p>And doth not this Law forbid any, high or low, to preach and pub<g ref="char:EOLhyphen"/>liſh Gods Law, but ſuch as conform to the Traditions and Commands of men, <hi>viz.</hi> By Reading the Common-Prayer, Renouncing the Co<g ref="char:EOLhyphen"/>venant, ſubmitting to humane Services, Ceremonies, and Inventions, <hi>Mark</hi> 7.7, 8, 9. however otherways fitted by Chriſt, with never ſuch Miniſterial Gifts and Attainments?</p>
+               <p n="2">2. Doth not Gods Law ſay, <hi>You may all propheſie</hi> (or preach, 1 <hi>Cor.</hi> 14.1, 2.) <hi>one by one?</hi> 1 Cor. 14.31.</p>
+               <p>And doth not this Law ſay, You ſhall not ſo propheſie, no not one?</p>
+               <p n="3">3. Doth not Gods Law pronounce wo to his Preachers, if they preach not the Goſpel? 1 <hi>Cor.</hi> 9.16.</p>
+               <p>And doth not this Law pronounce wo to them, if they do?</p>
+               <p n="4">4. Doth not Gods Law give promiſed Rewards and Bleſſings to
+<pb facs="tcp:151236:3"/>thoſe that teach it to others? <hi>Mat.</hi> 10.41. <hi>&amp;</hi> 25.21. &amp; 5.19. <hi>Ja.</hi> 5.20.</p>
+               <p>And doth not this Law threaten a 20 <hi>l.</hi> &amp; 40 <hi>l.</hi> Curſe, yea, utter ruine to thoſe that do?</p>
+               <p n="5">5. Doth not Gods Law admit of preaching in Houſes, Streets, and Fields, to great Multitudes, with promiſed mercies to the Owners ſo receiving his People and Preachers? <hi>Acts</hi> 20.20. &amp; 28.31. <hi>Luke</hi> 13.26. <hi>Mat.</hi> 3 1. &amp; 10.40, 41.42.</p>
+               <p>And doth not this Law forbid ſuch preaching, with threatned ruine to Owners and Hearers, as well as Preachers?</p>
+               <p n="6">6. Doth not Gods Law denounce curſing and wrath to the uttermoſt to thoſe that reject and forbid, and that miſ-uſe and abuſe his Preach<g ref="char:EOLhyphen"/>ers, and beat their fellow-ſervants? 1 <hi>Theſ.</hi> 2.16. <hi>Mat.</hi> 24.48, 49, 50.</p>
+               <p>And doth not this declare promiſed Bleſſings and Rewards to thoſe that ſhall be moſt active in purſuing and perſecuting the Preacher, and proſecuting and vexing the Hearers?</p>
+               <p n="7">7. Doth not Gods Law enjoyn men frequently and ſtedfaſtly to aſ<g ref="char:EOLhyphen"/>ſemble together, and to maintain and keep up their Fellowſhips and Meetings? <hi>Heb.</hi> 10.25. &amp; 3.13. <hi>Acts</hi> 2.42. <hi>Mal.</hi> 3.14, 16.</p>
+               <p>And doth not this Law not onely forbid, but tear and break up ſuch Meetings and Aſſemblies, loading them with heavy Mulcts and Penal<g ref="char:EOLhyphen"/>ties <hi>Toties Quoties,</hi> as often as they ſo meet?</p>
+               <p n="8">8. Doth not Gods Law admit of Popular Meetings, the aſſembling of great numbers to worſhip him, and attend his Ordinances, five thou<g ref="char:EOLhyphen"/>ſand and eight thouſand at a time? <hi>Joh.</hi> 6.10. <hi>Act.</hi> 4.4. &amp; 2.41. yea, the more the better, without any limitation, or ſcandal of ſedititon in ſo doing.</p>
+               <p>But doth not this Law limit thoſe that muſt ſo worſhip and hear the Word, to four perſons onely, beſide the Family, unleſs they will be re<g ref="char:EOLhyphen"/>puted ſeditious, and dealt with accordingly?</p>
+               <p>
+                  <hi>Q.</hi> II. Whether if it appears that indeed this New Law, and Word of Man, doth contradict the Old Law, and Word of God; the People of God ought any more to regard it now, than the three Children and <hi>Da<g ref="char:EOLhyphen"/>niel</hi> did the Perſian Law in like Caſe (<hi>Dan.</hi> 3.16, 17. &amp; 6.10.) in thoſe days; or the Diſciples (<hi>Acts</hi> 4.) did the Edicts, Threatnings, and Pro<g ref="char:EOLhyphen"/>hibitions of the Council then? And whether, if God be God, he ought not to be followed and obeyed rather than man, though Goods be ſpoy<g ref="char:EOLhyphen"/>led, Liberties infringed, and Lives-hazarded in ſo doing?</p>
+               <p>
+                  <hi>Q.</hi> III. Whether in caſe the Maxims of our Engliſh Laws in favour of the Word and Law of God, be of force, this Law is not to be deem<g ref="char:EOLhyphen"/>ed void and null? Which do aſſert for good Law, ſound Doctrine, Rea<g ref="char:EOLhyphen"/>ſon,
+<pb facs="tcp:151236:3"/>and truth, <hi>That no Act of Parliament, or Law, repugnant to the Law of God, is of any force,</hi> Finch, p. 3. <hi>And that no man, of what Eſtate, Degree, or Condition whatſoever, hath power to diſpence with Gods Law, as all the Clergy of the Realm, and moſt of the <g ref="char:V">Ʋ</g>niverſittes of Chriſtendom, and we alſo affirm,</hi> 28 H. 8. <hi>And that againſt Scripture Law, Preſcription, Statute, nor Cuſtom may avail; and if any be brought in againſt it, they be void, and againſt Juſtice.</hi> Doct. &amp; Stud.</p>
+            </div>
+            <div type="part">
+               <head>Secondly, As to the Law of the Land.</head>
+               <p n="1">I. Whether the ſaid Act is not expreſly contrary to the known, an<g ref="char:EOLhyphen"/>cient, fundamental Laws of this Nation, eſpecially that of <hi>Magna Charta;</hi> which, as the great Bulwark of the Engliſh Liberty, has been confirmed by about forty Parliaments?</p>
+               <p>For doth not that Great Charter aſſure and confirm, <hi>That no Free<g ref="char:EOLhyphen"/>man ſhall be taken, or impriſoned, or diſ-ſeiſed of his Free-hold, or Liberties, or free Cuſtoms, or be outlawed, or exiled, or any otherways deſtroyed, or paſſed upon, or condemned, but by the lawful Iudgment of his Peers, or</hi>
+                  <note n="*" place="margin">
+                     <hi>Viz.</hi> By due proceſs of the Common (or old) Law of <hi>England.</hi> See 2d part Cooks <hi>Inſt. ch. 29. fo.</hi> 50. ſo explai<g ref="char:EOLhyphen"/>ned alſo by 37 <hi>E.</hi> 3. <hi>ch.</hi> 8.</note>
+                  <hi>Law of the Land: And that Iuſtice ſhall neither be ſold, denied, or deferred?</hi>
+               </p>
+               <p>And doth not this Act in contradiction thereto, both ſeiz upon mens, Liberties and Eſtates, without any ſuch legal Proceſs or Judge<g ref="char:EOLhyphen"/>ment?</p>
+               <p>For is not the Juſtice impowered hereby, by foce, Civil or Mili<g ref="char:EOLhyphen"/>tary, to ſeiz; take, and keep in cuſtody the peaceable free People of the Nation (<note n="†" place="margin">Six Reme<g ref="char:EOLhyphen"/>dies to relieve any that are ſo impriſoned or diſſeized of their free liberties, con<g ref="char:EOLhyphen"/>trary to <hi>Mag<g ref="char:EOLhyphen"/>na Charta. 2d</hi> part Cooks's <hi>Inſt.</hi> ch. 29 f. 55.</note> diſ-ſeizing them thereby of their Liberties) being Advo<g ref="char:EOLhyphen"/>cate, Jury, and Witneſs, and ſole Judge both of Law and Fact, as well as of the ability of the Offender? And is he not authorized alſo, accor<g ref="char:EOLhyphen"/>ding as he (in malice, favour, or affection) ſhall judge meet, to Con<g ref="char:EOLhyphen"/>vict, Sentence and Execute, by making Diſtreſs and Sale of Goods, how and upon whom he pleaſeth, without returning any thing again to the Owners, (which may be one hundred or two hundred pounds, for ten or twenty pounds) and therewith to reward the Informer, or who elſe he ſhall judge moſt active, be it his Clerk, Sonne, or Himſelf? (And is not this ſeizing <note n="*" place="margin">
+                     <hi>Free-hold</hi> is Goods and Chattels as well as Lands &amp; Tenements. <hi>Cook's Inſtit. c. 29. p. 46.</hi>
+                  </note> Free-hold too, with a witneſs?) And all with<g ref="char:EOLhyphen"/>out any legal Judgement and Proceſs? And is not the bribing the In<g ref="char:EOLhyphen"/>former (that principal Truſtee in the Act) or Juſtice himſelf, with ſo great a Reward, a ſetting Juſtice to ſale with a vengeance? And what can more violate that fundamental Law, both as to Perſon and Eſtate? Notwithſtanding by the 42 of <hi>Ed.</hi> 3. this Great Charter is commanded
+<pb n="6" facs="tcp:151236:4"/>to be kept in all points; and that whatever Law is made against it, is null and void: <hi>Polton</hi> 182. The words of the Statute are theſe: <hi>At the Parliament of our Lord the King at Weſtminſter, the firſt day of May, the</hi> 42 <hi>year of his Reign, It is aſſerted and recorded, That the Great CHARTER, and the Charter of the Forreſt be holden and kept in all Points; and if any STATUTE be made to the contrary, it ſhall be holden for none.</hi>
+               </p>
+               <p n="2">II. Whether it is not dangerous by the Laws and Cuſtoms of the Nation, for any to infringe and violate this Great Charter, under colour or pretence of any Law or Statute whatſoever? Witneſs that famous Example, and eminent Inſtance in 1 <hi>H.</hi> 8. in the Impeachment and Execution of the two Juſtices of the Peace, <hi>viz.</hi> Sir <hi>Richard Emp<g ref="char:EOLhyphen"/>ſon</hi> Knight, and <hi>Edmond Dudley</hi> Eſq; for their putting in execution the Statute made 11 <hi>H.</hi> 7. ſo contrary to <hi>Magna Charta,</hi> concerning which for better Information take my Lord <hi>Cooks</hi> own words in his <hi>Inſtit L.</hi> 2. <hi>C.</hi> 29. <hi>f.</hi> 15. <hi>Viz.</hi>
+               </p>
+               <q>
+                  <p>
+                     <hi>Againſt this Antient and Fundamental Law, and in the face thereof,</hi> (having recited that Clauſe of <hi>Magna Charta</hi> before mentoned) <hi>I find</hi> (ſaith he) <hi>an Act of Parliament made, That as well Juſtices of Aſſize, as Juſtices of Peace, (without any finding or Preſentment by the Verdict of twelve men) upon a bare Information for the King before them made, ſhould have full Power and Authority by their Diſcretions to hear and de<g ref="char:EOLhyphen"/>termine all Offences and Contempts committed or done by any perſon or per<g ref="char:EOLhyphen"/>ſons againſt the Form, Ordinance and effect of any Statute made and not repealed. By colour of which Act, ſhaking this Fundamental Law, it is not credible what horrible Oppreſſions and Exactions, to the undoing of in<g ref="char:EOLhyphen"/>finite numbers of people, were committed by Sir</hi> Richard Empſon <hi>Knight, and</hi> Edmond Dudley <hi>Eſq; being Juſtices of the Peace throughout Eng<g ref="char:EOLhyphen"/>land: And upon this Unjuſt and Injurious Act (as commonly in like Caſes it falleth out) a new Office was created, and they made Maſters of the Kings Forfeitures.</hi>
+                  </p>
+                  <p>
+                     <hi>But at a Parliament holden in the</hi> 1 H. 8. <hi>this Act of</hi> 11 H. 7. <hi>is reci<g ref="char:EOLhyphen"/>ted, and made void, and repealed; and the reaſon thereof is yeilded, For that by force of the ſaid Act, it was manifeſtly known that many ſiniſter and crafty feigned and forged Informations had been purſued againſt di<g ref="char:EOLhyphen"/>vers of the Kings Subjects, to their great damage, and wrongful vexa<g ref="char:EOLhyphen"/>tion. And the ſucceſs hereof, and the fearful ends of theſe two Oppreſ<g ref="char:EOLhyphen"/>ſors, ſhould deter others from committing the like; and ſhould admoniſh Parliaments, that inſtead of this ordinary and precious Tryal</hi> per Legem Tetrae, <hi>the known ancient Laws, they bring not in abſolute and partial
+<pb n="7" facs="tcp:151236:4"/>Tryals by Diſcretion. The ſaid two Juſtices were to the joy of all People executed the beginning of</hi> H. 8.</p> 
+                  <bibl>Speed Chr. 983.</bibl>
+               </q>
+               <p>Not to mention the impeachment and dethroning the two Kings, <hi>Edward</hi> the ſecond, and <hi>Richard</hi> the ſecond, for having perverted the due courſe of Law, Juſtice and Right; and that they deſtroyed men by Informations, and without Legal Examination and Tryals; and that they had declared that the Laws of the Kingdom were in their own Breſts: As in their Articles of Impeachment does more at large ap<g ref="char:EOLhyphen"/>pear.</p>
+               <p>Nor the Impeachment of the Lord Chief Juſtice <hi>Tryſillian,</hi> and his Brother Judges, <hi>Fulthorp, Belknap, Carey, Hott, Burge,</hi> and <hi>Locton,</hi> and others of the then Privy Council, and then <hi>Lord Mayor of London,</hi> who had ſet their hands to Judgements in ſubverting the Laws of the Land, and advancing the Kings Will and Commands above the known Laws of the Kingdom: For which the Lord Chief Juſtice and others of them were hanged at <hi>Tybourn.</hi> The Impeachment alſo of Judge <hi>Thorp, Ed.</hi> 3: and Cardinal <hi>Woolſey,</hi> H. 8. for adviſing the King to ſubvert the Laws. Not forgetting the late worthy Act of Chief Juſtice <hi>Keeling,</hi> in impri<g ref="char:EOLhyphen"/>ſoning and fining the <hi>London</hi>-Juſtices, for acting againſt the known Laws.</p>
+               <p>
+                  <hi>Qu.</hi> III. Whether it doth not concern all perſons called to be active herein, whether Officers Civil, Military, or others, to be well adviſed what they do, leſt inſtead of promoting the Peace and Welfare of the Nation, (the great end of all wholſome Laws) they not onely infringe the juſt Liberties thereof, inſlave themſelves and Poſterities, but ren<g ref="char:EOLhyphen"/>der themſelves liable to ſuch infamy, miſery and miſchief that the miſ<g ref="char:EOLhyphen"/>creants beforementioned have done. And whether it will not be a good plea for any that may be vexed, perſecuted or proſecuted hereup<g ref="char:EOLhyphen"/>on, why they conform not thereto, either by anſwering enſnaring que<g ref="char:EOLhyphen"/>ſtions to accuſe themſelves about Meetings, telling of Names, or places of abode, or payment of Moneys, that it is all againſt <hi>Magna Charta</hi> and the known Laws of the Land, which declare, that <hi>no man ſhall be put to anſwer without Preſentment, or matter of Record, or by due Proceſs, and Original Writ, according to Law;</hi> as by ſe<g ref="char:EOLhyphen"/>veral Statutes, <hi>viz.</hi> 5. <hi>Ed.</hi> 3.9. &amp; 25 <hi>Ed.</hi> 3.4. 28 <hi>Ed.</hi> 3.3. 27 <hi>Ed.</hi> 3.18. 42 <hi>Ed.</hi> 3.33. <hi>Petit. of Right,</hi> 3 <hi>Car.</hi> 1.1. 17 <hi>Car.</hi> 1.14.</p>
+               <p>
+                  <hi>Qu.</hi> IV. Whether the pretended <hi>Salvo, [That you may, if you find your ſelf aggrieved hereby, make your Appeal, and take your Tryal by a Jury]</hi>
+                  <pb n="8" facs="tcp:151236:5"/>may acquit this Law from infringing and violating <hi>Magna Charta</hi> and the known Laws of the Land: Becauſe, firſt, is not the Law violated, by ſeizing and taking both Perſon and Eſtate without any ſuch Proceſs and Judgement? And ſecondly, that the Appeal muſt not lie in any other Court, but only before the Parties themſelves complained of to do the wrong; who ſeem hereby to be made ſole Judges in their own Caſes; the Juries being to be empannelled by themſelves, the Sheriffs being Parties with them; contrary to expreſs Law, forbid<g ref="char:EOLhyphen"/>ding any to be Judge in his own Caſe. 8 <hi>H.</hi> 6. <hi>fol.</hi> 21. <hi>El. Dier</hi> 220. and Doctor <hi>Bonham</hi>'s Caſe, 8 <hi>part Cooks Reports.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>Thirdly, As to the Law of Nature.</head>
+               <p n="1">1. Whether the ſaid Law is not alſo contrary to the Law of Nature, <hi>viz.</hi> That Great <hi>Magna Charta</hi> laid down by our Saviour, <hi>Mat.</hi> 7.12. <hi>Whatever ye would that men ſhould do unto you, do ye even the ſame unto them: for this is the Law and the Prophets?</hi>
+               </p>
+               <p>For if the chiefeſt of the Perſecutors, and who had the greateſt hand in making this Act, were ſolemnly appealed to, Whether they, being men of Conſcience, would think it equal either by Papiſts or Phana<g ref="char:EOLhyphen"/>tiques, to be ſo dealt withal? <hi>Viz.</hi> In their ſolemn Worſhip to be ſo hared and diſturbed by a Tumult and Rabble; to be tore and haled from their places and Aſſemblies, and impriſoned by Officers and arm<g ref="char:EOLhyphen"/>ed men; to be pulled from their Miniſters, and their Miniſters from them, and ſo ſeverely and ruinouſly fined from time to time for the ſame; and that nothing muſt ſatisfie but coming to Maſs, or to be dipt and joyn'd to Anabaptiſtical Meetings, though againſt Conſcience; and all this for no other Crime but peaceable Meeting and Worſhip<g ref="char:EOLhyphen"/>ping God according to Conſcience? Will any of them aſſert and give it under their hands, they judge all this but fair, juſt and equal dealing, and that they would be content to be dealt juſt ſo with, as they deal with others? Or further, If their Pariſh Churches were burnt by the Papiſts, and yet be fined, buffeted, and rendred ſeditious, and dealt with accordingly, for not coming at them, or meeting to worſhip in Houſes or elſewhere in the interim; would it be judged fair and equal? Or not rather much at that rate as <hi>Pharaoh</hi> dealt with the <hi>Iſraelites,</hi> when he required them to make Brick without Straw, and beat them too if they brought not the full tale?</p>
+               <pb n="9" facs="tcp:151236:5"/>
+               <p>
+                  <hi>Qu.</hi> II. Whether upon the ſame ground the Common-Prayer-Book-Wor<g ref="char:EOLhyphen"/>ſhip is to be impoſed and ſubmitted to, to day, <hi>viz.</hi> becauſe a Law is got for it; the Maſs, upon the like Argument, is to be conformed to, to morrow; the Turkiſh Alcoran the next day, and the Jewiſh Talmud the next?</p>
+               <p>
+                  <hi>Qu.</hi> III. Whether it is not unnatural for Proteſtants, pretending to own one Head, the Lord Jeſus; and one Law of his, the holy Scripture, which alſo is to interpret it ſelf; agreeing alſo in the Doctrinal part of their Religion, as by the Thirty Nine Articles appear; ſhould for Differen<g ref="char:EOLhyphen"/>ces in the Ceremonial part, thus rent, tear, and devour each other; whilſt Turks, Papiſts, and other Religions, can live peaceably, and bear with each other under greater differences? And whether they that bite and devour each other, ſhould not take heed leſt they be devoured one of another, <hi>Gal.</hi> 5.15. And that what meaſure they mete to others, the ſame be not meaſured to themſelves alſo? <hi>Mat.</hi> 7.2.</p>
+               <p>
+                  <hi>Qu.</hi> IV. Whether fince by this Act Proteſtants onely are enjoyned, hired, and frighted thus to vex, diſturb, proſecute, and ruine one another, for worſhipping God in their way; and the Papiſts hereby in the mean time left to enjoy their Idolatrous Maſs in peace and quiet, without the leaſt diſturbance, and that as often as they pleaſe, and in as great numbers as they think good: Tends not too much to confirm the fears of many, that that curſed Intereſt (that ſo lately murder'd ſo many hun<g ref="char:EOLhyphen"/>dred thouſands in our Neighbour Countreys, and (as ſuppoſed) burnt the City) may be getting into the Saddle again, which they do &amp; have ſo long gap'd for; and hereby not onely teach them afreſh to deal with Proteſtants, but to juſtifie all their bloody Cruelties of old, that upon the account of Conſcience they have exerciſed towards them? There<g ref="char:EOLhyphen"/>fore doth it not well become every conſiderate Proteſtant to ponder well what he is doing, whilſt he is cutting down the Bough he ſtands on?</p>
+               <p>
+                  <hi>Qu.</hi> V. Whether in point of Appeal, to make Parties themſelves Judges in their own Caſe, is a uſual thing? Or that the Law-makers themſelves uſe to practiſe it in their own Concerns? Or how well comporting with this Golden Rule aforeſaid, <hi>To do to others as we would they ſhould do to us?</hi>
+               </p>
+               <p>
+                  <hi>Qu.</hi> VI. Whether in all theſe reſpects, this Law ought not to be eſteemed
+<pb facs="tcp:151236:6"/>Null and Void; and altogether diſregarded, as if there was no ſuch thing in the Nation.</p>
+            </div>
+            <div type="part">
+               <head>Fourthly, As to the Rules of Prudence and Policy.</head>
+               <p>
+                  <hi>Qu.</hi> I. Whether it is not greatly imprudent to riſe up againſt ſo conſidera<g ref="char:EOLhyphen"/>ble a part of the Nation as the Phanatique Intereſt certainly is; who for Sobriety, Counſel, and Conduct, have ſo great a Witneſs in the hearts of their greateſt Enemies? And for the Trading part, whether Forreign or Domeſtick, (which the ſimple Commonwealths that flouriſh in the World judge ſo much the Intereſt and Honour of Prince and People) they have not ſo conſiderable a ſway in every bodies eye, which if doubted (by the violent proſecution of the Act) too ſudden (and it may be too dear-bought) Experience (notwithſtanding Mr. <hi>Parker</hi>'s Politicks) may evince? And for their quiet and peaceable demeanor, and that as well under great ſufferings and provocations, as under pro<g ref="char:EOLhyphen"/>bable † opportunities;<note place="margin">† To wit, the Dutch Innvaſi<g ref="char:EOLhyphen"/>on, &amp; Scotiſh Inſurrection.</note> not only to have given diſturbance, but to have freed themſelves from Perſecution, may not ten years Experience give the undeniable demonſtration? And will any wiſe State judge it according to the principles of Wiſdom and Policy, by threatned ruine and deſtruction to irritate ſuch a People, having heretofore alſo taſted the ill conſequence of ſuch like provocations? <hi>Solomon</hi> ſaith, <hi>Oppreſ<g ref="char:EOLhyphen"/>ſion makes a wiſe man mad;</hi> and the French have a Proverb, <hi>Ne Reveille pas chat qui dort; Do not kindle the fire that was near quench'd.</hi>
+               </p>
+               <p>
+                  <hi>Qu.</hi> II. Whether the ſame Argument that is uſed againſt Popular great Meetings (and upon which the Act ſeems to be grounded, <hi>viz.</hi> That they tend to contrive Sedition and Rebellion) is not upon Principles of Reaſon and Experience found to be quite contrary? For what of Sedition and Rebellion is like to be contrived in a Publick Meeting, where the Doors are open, and all ſorts of People come; and over which the Magiſtrate may have ſuch Inſpection, and whereof he muſt rationally have ſuch ſpeedy knowledge? And are there not Laws and Executioners of all ſorts, both Civil and Military, ſufficiently to pun<g ref="char:EOLhyphen"/>iſh and chaſtize the ſame, whenever made good againſt any? Whereas if great Meetings through Perſecution be diſperſed, then a Meeting of a thouſand being driven into twenty or thirty parts, and conſtrained thereby to meet in private, what Opportunities may there be then, where no inſpection can be had, to conſult and plot?</p>
+               <pb facs="tcp:151236:6"/>
+               <p>
+                  <hi>Qu</hi> III. Whether it is not againſt all Rules of Prudence and Policy, to exer<g ref="char:EOLhyphen"/>ciſe ſuch ſeverity upon our ſelves, that muſt neceſſarily wound and weaken, if not deſtroy the Trade of the Nation? Cannot the Bank<g ref="char:EOLhyphen"/>ers, Clothiers, Silk-men, Bailders, Farmers, <hi>&amp;c.</hi> tell you what a ſad influence the rumour of this Act hath already had? What then will the Execution of it produce? It may be when you ſee the Shops ſhut up, the great Traders, and the ingenious Heads and Hands removed with their Stocks to your Neighbour Countreys, (proffering them already the liberty of their Conſciences) the many thouſand ruined Conform<g ref="char:EOLhyphen"/>able Families (depending upon the Nonconformiſts) at you Doors for Bread, and confuſion in your Streets, and a Foreigner (invited by your diſtractions) in your Gate, you may be better convinced, and find it may be, when it is too late, the direful Conſequences of ſuch evil Counſels and precipitate Actings?</p>
+               <p>
+                  <hi>Qu.</hi> IV. Whether it doth not beſpeak much imprudence to be making freſh attempts in fruitleſs Undertakings, that neither have had, nor rational<g ref="char:EOLhyphen"/>ly may have a tendency to accompliſh promiſed ends? Phanatiques muſt be perſecuted, vext, fined, rendred Sectaries, Seditious, Rebelli<g ref="char:EOLhyphen"/>ous, and threatned with utter ruine; and wherefore? <hi>Viz.</hi> To diſcou<g ref="char:EOLhyphen"/>rage, weaken, divide, to deliver them from their Hereſies, and re<g ref="char:EOLhyphen"/>duce them to Canonical Obedience: But is this a rational way to ef<g ref="char:EOLhyphen"/>fect it? No, by no means; for has not Experience (that Miſtriſs of Fools) taught us the quite contrary? For not to mention what happen<g ref="char:EOLhyphen"/>ed in other Nations and former Generations; Let it but be remem<g ref="char:EOLhyphen"/>bred, Whether the Biſhops cruel Courts, Impoſitions, Suſpenſions, the high Commiſſions, Pillories, Impriſonments, Finings, Baniſhments, <hi>&amp;c.</hi> Backing the Common-Prayer with Armies; Convinced, weakned, divided, deſtroyed the Puritanical Faction, and rooted, confirmed, and advanced Epiſcopacy, and preſerved the publick Peace and Safety in thoſe days? And whether the ſeveral attempts the ten years laſt paſt, (no whit inferior to former times) have had, or are like to have any bet<g ref="char:EOLhyphen"/>ter ſucceſs than theirs? Or not much like <hi>Pharaoh</hi>'s of old, who the better to reduce his Phanatique Subjects from their gadding giddy hu<g ref="char:EOLhyphen"/>mours about Worſhip, ſets cruel Task-Maſters over them, to humble and chaſtize them; But to what effect, the Text informs us, <hi>Exod.</hi> 1.11. <hi>That the more they were afflicted, the more they multiplied and grew.</hi> And ſo may it not be ſaid, That for one Phanatick ten years ſince, by the vertue of Perſecution and Impoſition, there is now ten, if not twenty,
+<pb facs="tcp:151236:7"/>in theſe Nations? The onely way to make an intereſt conſiderable, is to perſecute and oppreſs it. For what ſo riveted Proteſtantiſm, and rooted out Popery in theſe Nations, but ſuch cruel Mediums the Pa<g ref="char:EOLhyphen"/>piſts took to eſtabliſh themſelves, and deſtroy the Nonconforming Phanaticks of the day, even to the rendring that Intereſt an Abomi<g ref="char:EOLhyphen"/>nation, Stink, and Loathing to this day? And are others like to fare better, walking in their ſteps? But would it not be a better way to appoint ſome learned ſober men to deal with theſe men of Conſcience in a conſcientious way, and ſpeedily apply to anſwer thoſe learned unanſwered Treatiſes about Indulgence and Liberty of Conſcience; that ſo by ſound Doctrine, and the force of Reaſon, they may ſtop the mouths of gain-ſayers, and reduce them to obedience; as the more hopeful way to effect it, rather than by Fines and Impriſonments?</p>
+               <p>
+                  <hi>Qu.</hi> V. Whether it had not been more prudential, and better becoming the Wiſdom and Gravity of the State, and the true Ordinance of Magi<g ref="char:EOLhyphen"/>ſtracy, that bears not the Sword in vain, to have made ſome vigorous Act to have inforc'd that firſt wholſome Proclamation to ſuppreſs Health Drinking, ſwiniſh Drunkenneſs, prophane Swearing, and abo<g ref="char:EOLhyphen"/>minable Whoredoms, that ſo fearfully abound, and are wink'd at, tole<g ref="char:EOLhyphen"/>rated, and encouraged in the Land; and to ſuppreſs Stage Plays, thoſe Nurſeries of all manner of Vice and Wickedneſs, ſo numberleſs, and to which there are ſuch great aſſembling and flocking of all ſorts? <hi>A good Ruler ſcatters wickedneſs with his Eyes,</hi> Prov. 20.8, 26. Draws the Sword againſt the evil, not the well-doer, <hi>Rom.</hi> 13.4, 5. And whether a due enquiry into the illegal † Pluralities, Non-Reſidents, and Simo<g ref="char:EOLhyphen"/>niſts, the ſordid Ignorance,<note place="margin">Vide <hi>Icha<g ref="char:EOLhyphen"/>bod's</hi> Com<g ref="char:EOLhyphen"/>plaint; a ſon of the Church.</note> Pride, Sloth, Debauchery and Covetouſ<g ref="char:EOLhyphen"/>neſs of the Clergy, (as one great ground why their Publick Aſſemblies are ſo quitted, and the Conventicles ſo numerouſly frequented) which foreſaid Crimes in the Clergy, the Overſeers of the Church (the Bi<g ref="char:EOLhyphen"/>ſhops) ſo wink at, and tolerate; might not have been a more ſucceſs<g ref="char:EOLhyphen"/>ful Remedy?</p>
+               <p>
+                  <hi>Qu.</hi> VI. Whether for a Parent that hath Children of different Judgments, yet (by his fatherly Eye) keeps peace in the Family; for him to joyn with the moſt ambitious and malicious, to force and club the reſt of them in<g ref="char:EOLhyphen"/>to a Unity and Conformity, to the diſturbing the quiet of the Family, and the hazarding his own perpetual peace and comfort, can be without great imprudence, if not <hi>Solomon</hi>'s juſt cenſure? <hi>Prov.</hi> 14.1. &amp; 11.29.</p>
+               <pb facs="tcp:151236:7"/>
+               <p>
+                  <hi>Qu.</hi> VII. Whether there can be greater imprudence than to ſlight or diſregard the Voice of Gods Judgments, by perſiſting in ways that have met with often and eminent Rebukes from him? And whether it is not an unde<g ref="char:EOLhyphen"/>niable great Truth, That upon all the great Perſecutions that have of late years been ſtirred up in theſe Nations, they have not been met with either by War, Plague, Fire, Invaſion, Inſurrection, Poverty, or Diſ<g ref="char:EOLhyphen"/>content? And whether upon relaxing the ſame by Indulgence, greater Peace, Quiet, and Bleſſing hath not viſibly attended? And <hi>was there ever any that hardned themſelves againſt God, and proſpered? Job</hi> 9.4. <hi>Prov.</hi> 29.1. <hi>Iſa.</hi> 46.10. And whether it is not for our better inſtruction, that thoſe Nations are moſt proſperous, and under greateſt Bleſſings, that give Liberty of Conſcience; and thoſe Kingdoms moſt declining, that abound in Perſecution? Witneſs that of <hi>Spain,</hi> now ſo low, that they can neither defend themſelves, nor ſuccour their Allies.</p>
+               <p>
+                  <hi>Qu.</hi> VIII. Whether it is not expreſly againſt the Kings printed Declarations and Promiſes for Indulgence, as well as his private frequent Confe<g ref="char:EOLhyphen"/>rences; wherein he hath ſo freely and fully expreſſed how much it is a<g ref="char:EOLhyphen"/>greeable to his Conſcience, Reaſon, and Reſolution, to indulge Ten<g ref="char:EOLhyphen"/>der Conſciences; as moſt conducing to the peace and quiet of theſe Nations, and ſuitable to the Rules of Honeſty and Prudence? And therefore whether it muſt not be rationally concluded, That He is as well impoſed upon hereby, and his Honour impaired, as the Laws bro<g ref="char:EOLhyphen"/>ken, and the Peoples Ruine threatned?</p>
+            </div>
+            <div type="part">
+               <head>Fifthly, As for advancing ſome private corrupt Intereſt hereby.</head>
+               <p>
+                  <hi>Qu.</hi> I. Whether it is not manifeſt that this Law was meerly contrived and brought forth to ſerve ſome private corrupt Intereſt, and not for publick good and advantage?</p>
+               <p>1. Becauſe it is in it ſelf ſo oppoſite to the Laws of God and Man, as well as to the Publick Promiſes and Declarations.</p>
+               <p>2. By its undue forming and bringing forth, carried on by ſuch a heady violent Faction, by ſtrength of Vote, againſt all the force of Un<g ref="char:EOLhyphen"/>anſwered Reaſon, given them both within doors, and without; the Votes of the Houſe (as obſerved therein) going one way, and the Rea<g ref="char:EOLhyphen"/>ſon of the Houſe another: Highly beſpeaking influence and deſign.</p>
+               <p>3. Becauſe it intruſts none but thoſe that are eſteemed the vileſt
+<pb facs="tcp:151236:8"/>perſons in the Nation (<hi>viz.</hi> the Informers) to manage it; an perſons being at their mercy.</p>
+               <p>4. From the undue Methods to inforce it: Whereas good Laws need no other incitation to their execution, but their own moral Equity and Righteouſneſs; But this, contrary to all other Mediums, (knowing how much it would be againſt the hair, grain, and intereſt of the Na<g ref="char:EOLhyphen"/>tion) doth hire, fright and force all ſorts to its execution.</p>
+               <p>5. From the miſchievouſneſs of it, being calculated directly to ſet all at variance, and every mans hand againſt his Neighbour, Friend, and Relation.</p>
+               <p>
+                  <hi>Qu.</hi> II. Whether it is not obvious to every eye, that this monſtrous Act was not eminently contrived, driven on, and ſpirited by the Biſhops and their corrupt intereſt?</p>
+               <p>1. Becauſe of their former old Rage, Envy, and Malice, teſtified herein; who will <hi>neither enter into the Kingdom of Heaven themſelves, nor ſuffer thoſe that would to enter in;</hi> like their Fathers of old, <hi>Mat.</hi> 23.13.</p>
+               <p>2. Becauſe it is no other than the practical improvement of the miſ<g ref="char:EOLhyphen"/>chievous Doctrine they have ſo plentifully given us by their prophane atheiſtical Chaplains, <hi>Parker</hi> and his fellows.</p>
+               <p>3. From their indefatigable induſtry (all other Laws and means fail<g ref="char:EOLhyphen"/>ing to accompliſh their miſchievous purpoſes) by hook or crook firmly to engage a Party in the Houſe to their Devotion herein: Witneſs (as ſaid) the 300 Letters in the Interval to the Members, the high Careſſes and Treats to the Blades, and the large Bribes to the Gentlemen of the long Robe, their violent and paſſionate Concern in their own perſons; though (as muſt be owned) with the worthy diſſent of ſome of Themſelves in the Houſe.</p>
+               <p>4. From their unwearied Activities to promote the violent proſecu<g ref="char:EOLhyphen"/>tion thereof, both in City and Country: Witneſs that late inciting and provoking Sermon upon this occaſion, by one of Themſelves, from <hi>Ezra</hi> 7.26. <hi>And whoſoever will not do the Law of God, and the Law of the King, let judgement be executed ſpeedily upon him, whether it be unto death, or to baniſhment, or to confiſcation of goods, or to impriſonment:</hi> Excellent<g ref="char:EOLhyphen"/>ly urged and applied, as they uſe to apply Texts! This being a Law of the King agreeable to the Word and Law of God, for the good of his People, and building of his Houſe; And theirs a Law of the King in expreſs contradiction to the Law of God, (as before) to the deſtruction of his Houſe, and ruine of his People.</p>
+               <pb facs="tcp:151236:8"/>
+               <p>
+                  <hi>Qu.</hi> III. Whether if ſo, the Prelatical Intereſt has not throughly diſcovered it ſelf to the Nation and all men, That thus meerly to ſatisfie and main<g ref="char:EOLhyphen"/>tain their Luſt, Sloth, Avarice, Pomp and Pride, can be content at once (with their Fathers <note n="†" place="margin">Who began the former Wars, called <hi>Bellum Epiſ<g ref="char:EOLhyphen"/>copale?</hi>
+                  </note>, nay worſe) to ſacrifice the Laws of God, Nature and Nations, and hazard the publick Peace and Safety? And whether it may not comfortably be hoped their folly is hereby ſo plainly made manifeſt, that they ſhall be able to proceed no further? As 2 <hi>Tim.</hi> 3.8, 9. <hi>Job</hi> 5.12, 13. <hi>Pſal.</hi> 9.16.</p>
+               <p>
+                  <hi>Qu.</hi> IV. Whether to put all out of doubt, it might not conduce much to the Honour of the King, Safety, Satisfaction, and Security of the People, and the Juſtice of the Law, That ſuch evil Counſellors, whether in Parliament or Council, ſhould be diſcovered, (as the late Chancellour was, for his trayterous miſchievous Advice in Council, againſt the fun<g ref="char:EOLhyphen"/>damental Laws of the Land, and Safety of the People) that ſhould thus dare, againſt the Laws of God, Nature, and Nations, ſo much againſt the Kings Honour, the Intereſt, Peace, Safety, and Good of the Peo<g ref="char:EOLhyphen"/>ple, ſo contrary to all Rules of Prudence, Policy, and Ingenuity, ſo much conducing to introduce Popery and all Confuſion; That they may be eſteemed the <hi>Empſon</hi>'s and <hi>Dudley</hi>'s of the Day, the Incendia<g ref="char:EOLhyphen"/>ries and Fire-brands of the Age: And that all thoſe good Patriots that have witneſſed and entred their Proteſts againſt this curſed Law, might be alſo known, and reſpected accordingly.</p>
+               <p>
+                  <hi>Qu.</hi> V. Whether the malicious Perſecutors, perſiſting in their Rage and Madneſs, may expect to fare better than their Brother Perſecutors of old, in the like ſpirit, have done? <hi>Exod.</hi> 15.9, 10. <hi>Est.</hi> 7.9, 10. <hi>Dan.</hi> 6.24. To the fulfilling <hi>Pſal.</hi> 7.14.15, 16. <hi>Rev.</hi> 18.6, 7, 8. <hi>Iſa.</hi> 10.24, 25.</p>
+               <p>
+                  <hi>Qu.</hi> VI. Whether (in due conſideration hereof) any but men of debau<g ref="char:EOLhyphen"/>ched Principles, Conſciences, and Lives, void of the fear of God and his Laws, and reverence to men and theirs, and wholly regardleſs of ei<g ref="char:EOLhyphen"/>ther Bodies, Souls, Eſtates, and Poſterities for future, will venture to do this drudgery for the Biſhops, (or Devil rather) in betraying and ſo violently and injuriouſly oppreſſing their Neighbours; nay, ſo fool<g ref="char:EOLhyphen"/>hardy to be thereby engaging againſt God and Chriſt himſelf, ſo much concerned herein? As <hi>Pſal.</hi> 83.5. <hi>Act.</hi> 9.5. <hi>Mat.</hi> 25.45.</p>
+               <p>
+                  <hi>Qu.</hi> VII. Whether the good People of the Nation ought not (having the Com<g ref="char:EOLhyphen"/>mand
+<pb facs="tcp:151236:9"/>and Authority of the King of Kings) to go on in their expreſs Duty, in keeping up his Commands in their reſpective Meetings and Aſſemblings to Worſhip him, though ſo expreſly againſt the Law and Command of the King, as they did, <hi>Dan.</hi> 3.16, 17, 18. <hi>&amp;</hi> 6.10. <hi>Acts</hi> 4.17, 18, 19, 20. <hi>&amp;</hi> 5.28, 29. And in caſe any ſuffer upon this account, whether they can ſuffer in a better Cauſe, than thus to aſſert the Intereſt, Word, and Ways of Chriſt, their juſt Liberties, both Natural, Civil, and Chriſtian, againſt ſuch violent and unreaſonable oppoſition of all? And whether Chriſt is not able and faithful to make up, reward, and recompence any hazard, loſs, or ſhame that may ſo redound upon his account, and his Goſpel? <hi>Mat.</hi> 19.29. <hi>Heb.</hi> 10.34. <hi>&amp;</hi> 11.25, 26. <hi>Rev.</hi> 2.10.</p>
+               <p>
+                  <hi>Qu.</hi> VIII. Whether it doth not concern the whole Phanatick Party, in conſide<g ref="char:EOLhyphen"/>ration of all this unnatural and unreaſonable Rage and Severity, to lay to heart, and conſider, That however they may be perſecuted from men for their vertue, they having no evil thing juſtly to lay to their charge, as <hi>Pſal.</hi> 35.19.20. <hi>&amp;</hi> 59.3. <hi>&amp;</hi> 69.4. <hi>John</hi> 10.32. though put into Bears Skins, and great matters alledged againſt them, as <hi>Ezra</hi> 4.15. <hi>Est.</hi> 3.8. <hi>Mat.</hi> 10.25. <hi>Act.</hi> 17.6, 7, 8. yet as coming from God, which is to be eyed, <hi>Job</hi> 5.6. <hi>Iſa.</hi> 42.24. and as not being without cauſe, <hi>Ezek.</hi> 14.23. Therefore to be humbled under his mighty hand, 1 <hi>Pet.</hi> 5.6. to ſearch out the provocation, <hi>Lam.</hi> 3.40, 41. <hi>Joſh.</hi> 7.12 13. Stone the <hi>Achan, Joſh.</hi> 7.25. Crying mightily to the Lord, as <hi>Iſrael</hi> did under the like affliction, <hi>Exod.</hi> 2.23. And it may be God may ſee the Affliction, and hear the Cry, and Deliver: As <hi>Exod.</hi> 3.7, 8. <hi>Joel</hi> 2.12, 13, 14.</p>
+               <p>IX. Whether it doth not manifeſtly appear, that this unnatural ſeverity tends ei<g ref="char:EOLhyphen"/>ther to deter from known duty (in attending the Worſhip of God according to his Word) Or from the Extremity, to provoke to Sedition, Tumult or Rebellion; neceſſitating thereby a falling either into the hands of God or Man: Therefore whether all concerned therein are not obliged to put forth utmoſt diligence and circumſpection, as to anſwer a good Conſcience in cleaving unto the Lord and his Laws, giving a Teſtimony to this evil Generation that they are <hi>Purſe</hi> as well as <hi>Priſon proof,</hi> having better learned &amp; received Chriſt than to ſell or part with him upon ſuch mean tearms: So on the other hand, to be keeping on in that meekneſs and patience of Chriſt that they have been led and proſpered in, as the approved promiſed way of overcoming, <hi>Rev</hi> 3.10. &amp; 12.11. Wherby may they not ſtill comfortably expect, in ſpite of Hell and the gates thereof, the Goſpel's pro<g ref="char:EOLhyphen"/>greſs, in ſinners converſion and Saints confirmation, the eſtabliſhment of <hi>Chriſt's,</hi> and downfal of <hi>Antichriſts</hi> Kingdom, (and thereby the cutting off occaſion from them that ſeek it, to the ſhame and confuſion of their faces) and their own ever<g ref="char:EOLhyphen"/>laſting peace and comfort?</p>
+               <pb facs="tcp:151236:9"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
